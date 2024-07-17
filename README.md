@@ -9,3 +9,9 @@ laravel new project-name
 ```
 php artisan make:controller ControllerName
 ```
+
+## create component
+
+```
+php artisan make:component ComponentName
+```
