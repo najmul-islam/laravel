@@ -1,8 +1,8 @@
-<h2>Mobile List:</h2>
+<h2>Mobile list:</h2>
 <ul>
     <li>Samsung</li>
     <li>Nokia</li>
+    <li>Vivo</li>
+    <li>Oppo</li>
     <li>Realme</li>
-    <li>Apple</li>
-    <li>LG</li>
 </ul>

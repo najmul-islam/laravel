@@ -9,9 +9,9 @@
 </head>
 
 <body>
-    <h1>Welcome to {{ $name }} </h1>
+    <h1>Welcome page </h1>
     <hr>
-    @include('contact', ['pincode' => 12345])
+    @include('contact', ['pincode' => 234234324])
 </body>
 
 </html>

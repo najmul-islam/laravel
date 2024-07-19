@@ -6,9 +6,13 @@ use Illuminate\Http\Request;
 
 class ContactController extends Controller
 {
-    function show()
+    //
+
+    function contact()
     {
         $name = "Sonam";
-        return view("contact", ["name" => $name]);
+        $students = ["Rahul", "Sumit", "Raj", "Kunal"];
+        // $students = [];
+        return view("contact", ["name" => $name, "students" => $students]);
     }
 }
