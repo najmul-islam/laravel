@@ -9,7 +9,11 @@
 </head>
 
 <body>
-    <h1>Admin profile page</h1>
+    <h1>Comments page</h1>
+    <hr>
+    <h5>{{ $id }}: {{ $text }}</h5>
+
+
 </body>
 
 </html>

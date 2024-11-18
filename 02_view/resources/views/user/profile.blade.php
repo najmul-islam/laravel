@@ -9,8 +9,7 @@
 </head>
 
 <body>
-    <h1>User profile</h1>
-    <h3>User Id: {{ $userId }}</h3>
+    <h1>User profile page</h1>
 </body>
 
 </html>

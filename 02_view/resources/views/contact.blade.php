@@ -9,9 +9,8 @@
 </head>
 
 <body>
-    <h1>Contact me page</h1>
-    <h2>Hello, {{ $name }}</h2>
-    <h3>Roll: {{ $roll }}</h3>
+    <h1>Contact page</h1>
+    <h3>{{ $name }}</h3>
 </body>
 
 </html>

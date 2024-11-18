@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>Admin profile page</h1>
+    <h1>Fallback Page</h1>
 </body>
 
 </html>

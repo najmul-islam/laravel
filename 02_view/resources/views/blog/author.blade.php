@@ -9,7 +9,8 @@
 </head>
 
 <body>
-    <h1>Admin profile page</h1>
+    <h1>Author page</h1>
+    <p>Author: {{ $author }}</p>
 </body>
 
 </html>
