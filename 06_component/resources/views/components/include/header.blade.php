@@ -1,3 +1,3 @@
-<header>
-    <h4>Header</h4>
-</header>
+<div>
+    <h3>Header component</h3>
+</div>

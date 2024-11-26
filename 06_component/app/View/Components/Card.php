@@ -6,6 +6,7 @@ use Illuminate\View\Component;
 
 class Card extends Component
 {
+
     public $title;
     public $subTitle;
     public $description;
@@ -22,8 +23,8 @@ class Card extends Component
         return view('components.card');
     }
 
-    public function addNumber($a, $b)
+    public function addNumber($a)
     {
-        return $a + $b;
+        return $a + 20;
     }
 }

@@ -1,5 +1,5 @@
 <div>
     <h1>{{ $title }}</h1>
-    <p>alert description</p>
+    <h3>Alert description</h3>
     {{ $slot }}
 </div>

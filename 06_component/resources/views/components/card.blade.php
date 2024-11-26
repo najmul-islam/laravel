@@ -1,11 +1,9 @@
-<div>
+<div style="border:1px solid black; margin:5px;padding:5px;">
     <h2>{{ $title }}</h2>
-    <h3>{{ $subTitle }}</h3>
-    <p>{{ $description }}</p>
+    <h4>{{ $subTitle }}</h4>
+    <p>
+        {{ $description }}
+    </p>
+    {{ $addNumber(10) }}
+    <h1 {{ $attributes }}>{{ $attributes }}</h1>
 </div>
-<div>
-    {{ $addNumber(10, 20) }}
-</div>
-{{-- <p {{ $attributes }}> Attributes </p> --}}
-<p {{ $attributes->merge(['class' => 'dclass']) }}> Attributes </p>
-<hr>
