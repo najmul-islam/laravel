@@ -1,1 +1,1 @@
-console.log("Hello laravel");
+alert("Hello world");
