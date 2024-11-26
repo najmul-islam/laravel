@@ -10,12 +10,7 @@
 
 <body>
     @yield('page-name')
-    @yield('banner')
     @yield('main')
-
-    @section('default-content')
-        <h4>This is default text from layout</h4>
-    @show
 </body>
 
 </html>

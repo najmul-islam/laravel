@@ -1,16 +1,11 @@
-@extends('layout.adminlayout')
-@section('title', 'Contact')
-
+@extends('layout.adminLayout')
+@section('title', 'Contact page')
 @section('page-name')
     <h1>Contact page</h1>
     <hr>
 @endsection
 
-@section('banner')
-    <h2>This is contact page banner</h2>
-@endsection
-
 @section('main')
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem pariatur quasi reprehenderit cum
-        consequuntur laborum velit sapiente explicabo quis voluptas?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nemo id tempore! Dignissimos ipsam ex, natus ipsa at
+        dicta doloribus, numquam, nihil officia reprehenderit modi! Cum ullam dolore doloremque nihil!</p>
 @endsection
