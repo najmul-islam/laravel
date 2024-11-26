@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>This website is in under construction</h1>
+    <h1>This is under construction</h1>
 </body>
 
 </html>

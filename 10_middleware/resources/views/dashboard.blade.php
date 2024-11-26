@@ -9,14 +9,18 @@
 </head>
 
 <body>
-    <h1>Dashboard page</h1>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/dashboard">Dashboard</a></li>
+            <li><a href="/stock">Stock</a></li>
+            <li><a href="/report">Report</a></li>
+        </ul>
+
+    </nav>
     <hr>
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/dashboard">Dashboard</a></li>
-        <li><a href="/stock">Stock</a></li>
-        <li><a href="/report">Report</a></li>
-    </ul>
+    <h1>Dashboard page</h1>
+
 </body>
 
 </html>
